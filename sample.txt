@@ -1,0 +1,8 @@
+This is sentence is added through git bash shell.
+Also this one!
+added another line
+if(age < 18){
+echo('you're a minor');
+}else{
+echo('you're a adult);
+}
